@@ -1,0 +1,21 @@
+{
+  "name": "openpay-notes",
+  "version": "1.0.0",
+  "description": "testing openpay api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "openpay",
+    "node",
+    "testing",
+    "api"
+  ],
+  "author": "Angel Calderaro calderaro94@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^6.0.0",
+    "openpay": "^1.0.2"
+  }
+}
